@@ -14,4 +14,4 @@ Script Python sederhana untuk menampilkan isi direktori, memilih file, dan menya
 1. Pastikan Python terinstal di sistemmu.
 2. Jalankan script:
    ```bash
-   python nama_file.py
+   python clone.py
